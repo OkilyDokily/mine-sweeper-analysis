@@ -109,3 +109,5 @@ const helpers = {
     return nonMines.every((c) => c.revealed);
   }
 };
+
+export default helpers;
